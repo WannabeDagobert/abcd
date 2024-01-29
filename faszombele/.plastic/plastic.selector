@@ -1,0 +1,4 @@
+repository "faszombele@WannabeDagobert@cloud"
+  path "/"
+    br "/main"
+    co "/main"
